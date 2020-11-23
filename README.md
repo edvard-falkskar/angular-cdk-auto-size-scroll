@@ -18,8 +18,8 @@ Below I have compiled the most common browsers and their limits in pixels and ho
 
 | Browser      | Pixels     | Max nr rows |
 |--------------|------------|-------------|
-| Chrome (86)  | 335 544 00 |   1 677 720 |
-| Safari (14)  | 335 544 28 |   1 677 721 |
+| Chrome (86)  | 33 554 400 |   1 677 720 |
+| Safari (14)  | 33 554 428 |   1 677 721 |
 | Firefox (83) | 17 895 690 |     894 785 |
 
 As long as you dont have data sets that are more than 894 785 rows long you are ok. Well if you need to support IE 11 you will have a much smaller number but I dont have acess to IE 11 at the moment.
